@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T13:50:31.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="hlVGzR9v3vZfIt4cXD-E" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T13:53:29.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="bcJCgK_V5rSllYMFoCAh" version="23.1.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2924" dy="2278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BDGuKQFZmQUHqGfHHnmT-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;color:red;" edge="1" parent="1" source="BDGuKQFZmQUHqGfHHnmT-2" target="BDGuKQFZmQUHqGfHHnmT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BDGuKQFZmQUHqGfHHnmT-1" value="Corso" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="-470" width="250" height="130" as="geometry" />
+          <mxGeometry x="600" y="-470" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BDGuKQFZmQUHqGfHHnmT-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BDGuKQFZmQUHqGfHHnmT-1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -89,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BDGuKQFZmQUHqGfHHnmT-21" value="studente" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-60" width="250" height="170" as="geometry" />
+          <mxGeometry x="600" y="-50" width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="BDGuKQFZmQUHqGfHHnmT-22" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BDGuKQFZmQUHqGfHHnmT-21">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -144,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BDGuKQFZmQUHqGfHHnmT-31" value="Partecipazione di esame" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-70" width="250" height="161" as="geometry" />
+          <mxGeometry x="-160" y="-80" width="250" height="161" as="geometry" />
         </mxCell>
         <mxCell id="BDGuKQFZmQUHqGfHHnmT-32" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BDGuKQFZmQUHqGfHHnmT-31">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -199,7 +202,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BDGuKQFZmQUHqGfHHnmT-129" value="dipartimento" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="-300" width="250" height="130" as="geometry" />
+          <mxGeometry x="-380" y="-240" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BDGuKQFZmQUHqGfHHnmT-130" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BDGuKQFZmQUHqGfHHnmT-129">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -241,7 +244,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BDGuKQFZmQUHqGfHHnmT-139" value=" Corso di laurea" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-300" width="250" height="130" as="geometry" />
+          <mxGeometry x="90" y="-300" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BDGuKQFZmQUHqGfHHnmT-140" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BDGuKQFZmQUHqGfHHnmT-139">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -283,7 +286,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BDGuKQFZmQUHqGfHHnmT-149" value="Insegnate" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="-50" width="250" height="130" as="geometry" />
+          <mxGeometry x="-550" y="-54.5" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BDGuKQFZmQUHqGfHHnmT-150" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BDGuKQFZmQUHqGfHHnmT-149">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -340,9 +343,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BDGuKQFZmQUHqGfHHnmT-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDGuKQFZmQUHqGfHHnmT-159" target="BDGuKQFZmQUHqGfHHnmT-140">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BDGuKQFZmQUHqGfHHnmT-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDGuKQFZmQUHqGfHHnmT-2" target="BDGuKQFZmQUHqGfHHnmT-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
